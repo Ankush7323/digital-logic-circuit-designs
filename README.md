@@ -36,7 +36,7 @@ It progresses through different states as the sequence is detected and produces 
 
 ### Sequence Detector Circuit
 
-![1101 Sequence Detector](screenshots/sequence-detector.png)
+![1101 Sequence Detector](https://github.com/Ankush7323/digital-logic-circuit-designs/blob/main/sequence-detector.png?raw=true)
 
 ### Sequence Detection
 
