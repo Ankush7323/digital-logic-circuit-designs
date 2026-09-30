@@ -64,11 +64,7 @@ After reaching `110`, the counter returns to `000` and begins a new cycle.
 
 ### Synchronous Counter Circuit
 
-![Synchronous Counter](screenshots/synchronous-counter.png)
-
-### Counter Simulation
-
-![Counter Simulation](screenshots/counter-simulation.png)
+![Counter Simulation](https://github.com/Ankush7323/digital-logic-circuit-designs/blob/main/synchronous-counter.png?raw=true)
 
 ---
 
