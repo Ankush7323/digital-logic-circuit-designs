@@ -46,7 +46,7 @@ When the complete sequence `1101` is detected, the output becomes:
 Y = 1
 ```
 
-![Sequence Detected](screenshots/sequence-detected.png)
+![Sequence Detected](https://github.com/Ankush7323/digital-logic-circuit-designs/blob/main/sequence-detector1.png?raw=true)
 
 ---
 
